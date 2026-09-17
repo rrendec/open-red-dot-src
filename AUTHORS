@@ -1,0 +1,18 @@
+Program: open-red-dot
+Homepage: https://github.com/rrendec/open-red-dot-src
+Bug reports: https://github.com/rrendec/open-red-dot-src/issues
+License: MIT
+
+Authors:
+Radu Rendec <radu@rendec.net>
+
+Note on LLM usage:
+LLM based tools may be used to create parts of this project, including code and
+documentation. Where this is the case, and a significant part of a Git commit
+has been created by or with the assistance of an LLM, this *must* be clearly
+indicated using an `Assisted-by` tag at the bottom of the commit message. The
+human who creates the commit and submits the code/documentation *must* carefully
+review and *fully understand* all the submitted changes. The `Signed-off-by` tag
+at the bottom of the commit message is an attestation that the human author has
+performed the review, *fully understands* the changes, and agrees that the
+changes are meaningful to the project and consistent with the commit message.
